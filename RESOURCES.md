@@ -76,6 +76,12 @@ Browse through the categories to find the resources most relevant to your needs.
 
 ### <a id="software-and-tech"></a>Software & Tech
 
+#### Kilobat Pro for Students
+
+- **Eligibility**: Students aged 13 or older enrolled in a degree-granting course, including qualifying diploma-granting coding bootcamps.
+- **Description**: Free Kilobat Pro for one year on two Macs, renewable while studying. Kilobat is a proprietary Mac app for network diagnostics and keeping a Mac awake; its separate CLI is free GPL-3.0-only software.
+- **How to Access**: Email the [student offer](https://kilobat.app/students) support address from your school email to request a license. No payment or Kilobat account is required.
+
 #### JetBrains Developer Pack
 
 - **Eligibility**: Students and educators.
